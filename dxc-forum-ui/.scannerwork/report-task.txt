@@ -1,0 +1,6 @@
+projectKey=dxc_forum_ui
+serverUrl=http://localhost:9080
+serverVersion=8.9.9.56886
+dashboardUrl=http://localhost:9080/dashboard?id=dxc_forum_ui
+ceTaskId=AYPkyFNJV2OX5wqlVb2C
+ceTaskUrl=http://localhost:9080/api/ce/task?id=AYPkyFNJV2OX5wqlVb2C
